@@ -1,6 +1,8 @@
 # lichess_opening_analysis
 <h2>An analysis of historic bullet games to date, with the hope of determining the most successful opening choice with white.</h2>
+
 ---
+
 1. Import into the notebook a PGN downloaded from lichess.org
 2. Organise the data by header, print first game winner and opening
 3. Expand from single game to all games in PGN file
@@ -11,11 +13,13 @@
 ---
 
 <h2>Dependencies</h2>
+
 - python
 - chess.pgn
 - Pandas
 
 ---
+
 <h2>Credits</h2>
 
 - PGN Parsing using chess module with Ryan Wingate 
@@ -23,3 +27,6 @@
 
 - Markdown reference
     https://wordpress.com/support/markdown-quick-reference/
+
+- Python get()
+    https://www.w3schools.com/python/ref_dictionary_get.asp
