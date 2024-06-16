@@ -1,7 +1,25 @@
 # lichess_opening_analysis
-An analysis of historic bullet games to date, with the hope of determining the most successful opening choice with white.
+<h2>An analysis of historic bullet games to date, with the hope of determining the most successful opening choice with white.</h2>
+---
+1. Import into the notebook a PGN downloaded from lichess.org
+2. Organise the data by header, print first game winner and opening
+3. Expand from single game to all games in PGN file
+4. Test variables with basic statistical analysis
+5. Graph statistics
+6. Find out your best and worst openings!
 
-1. import historical game data
+---
+
+<h2>Dependencies</h2>
+- python
+- chess.pgn
+- Pandas
+
+---
+<h2>Credits</h2>
+
+- PGN Parsing using chess module with Ryan Wingate 
     https://ryanwingate.com/other-interests/chess/using-python-chess-with-pandas-for-high-volume-pgn-parsing/
-2. Verify data
-3. test with basic statical analysis 
+
+- Markdown reference
+    https://wordpress.com/support/markdown-quick-reference/
