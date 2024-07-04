@@ -30,3 +30,6 @@
 
 - Python get()
     https://www.w3schools.com/python/ref_dictionary_get.asp
+
+-  Scoutfish - pgn parser
+    https://github.com/mcostalba/scoutfish
